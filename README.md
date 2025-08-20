@@ -44,13 +44,13 @@ The approach demonstrates an **end-to-end data analytics workflow**, starting fr
 
 ### From Python Analysis
 
-Low Fat items generated slightly higher sales compared to Regular items.
+  * Low Fat items generated slightly higher sales compared to Regular items.
 
-Medium-sized outlets contributed the highest share of sales (~42%).
+  * Medium-sized outlets contributed the highest share of sales (~42%).
 
-Tier 3 locations showed the strongest sales performance.
+  * Tier 3 locations showed the strongest sales performance.
 
-Outlets established before 2000 recorded the highest sales, while those established after 2010 showed stable but comparatively lower sales.
+  * Outlets established before 2000 recorded the highest sales, while those established after 2010 showed stable but comparatively lower sales.
 
 ### From Power BI Dashboard
 
